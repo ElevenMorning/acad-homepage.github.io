@@ -56,4 +56,6 @@ My research interest includes CV, LLM and EDA, especially AI4EDA(topology genera
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.02 - 2023.02*, Hikvision, Hangzhou.
+- *2023.03 - 2023.06*, Ping An Technology, Shanghai.
+- *2023.06 - 2024.06*, Shu Kun Technology, Shanghai.
