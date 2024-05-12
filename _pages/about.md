@@ -23,8 +23,7 @@ My research interest includes CV, LLM and EDA, especially AI4EDA(topology genera
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉  One paper on Dataset for AMS Circuits is accepted by LAD'24
 
 # 📝 Selected Publications 
 
